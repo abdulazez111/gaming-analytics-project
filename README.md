@@ -30,18 +30,25 @@ GAMING-ANALYTICS-PROJECT/
 ## 🚀 Getting Started
 1. Prerequisites
 Ensure you have Python installed, then install the required dependencies:
+```bash
 pip install pandas streamlit
+```
+
 
 2. Run the Data Pipeline
 Execute the ETL script to fetch data and build the SQLite database:
+```bash
 python games_pipeline.py
+```
 
 3. Launch the Dashboard
 Start the Streamlit web app:
+```bash
 streamlit run app.py
+```
 
 ## 📊 Dashboard Preview
-Quick Metrics: Track total catalog size, 
-platforms supported, and active genres.
-Filtering: Query games dynamically based on specific genres.
-Analytics Visuals: Real-time breakdown of game distribution across leading genres.
+* **Quick Metrics:** Track total catalog size, platforms supported, and active genres.
+* **Filtering:** Query games dynamically based on specific genres.
+* **Analytics Visuals:** Real-time breakdown of game distribution across leading genres.
+
