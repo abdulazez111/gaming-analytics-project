@@ -26,7 +26,7 @@ GAMING-ANALYTICS-PROJECT/
 ￼ Database: ⁠sqlite3⁠
 ￼ Visualization & UI: ⁠streamlit⁠
 ￼ Data Source: FreeToGame API
-
+```
 ##🚀 Getting Started
 1. Prerequisites
 Ensure you have Python installed, then install the required dependencies:
