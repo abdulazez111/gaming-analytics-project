@@ -27,7 +27,7 @@ GAMING-ANALYTICS-PROJECT/
 ￼ Visualization & UI: ⁠streamlit⁠
 ￼ Data Source: FreeToGame API
 
-🚀 Getting Started
+##🚀 Getting Started
 1. Prerequisites
 Ensure you have Python installed, then install the required dependencies:
 pip install pandas streamlit
@@ -40,7 +40,7 @@ python games_pipeline.py
 Start the Streamlit web app:
 streamlit run app.py
 
-📊 Dashboard Preview
+##📊 Dashboard Preview
 Quick Metrics: Track total catalog size, 
 platforms supported, and active genres.
 Filtering: Query games dynamically based on specific genres.
